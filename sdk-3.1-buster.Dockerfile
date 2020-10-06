@@ -1,1 +1,1 @@
-FROM mcr.microsoft.com/dotnet/core/sdk:3.1-buster.Dockerfile
+FROM mcr.microsoft.com/dotnet/core/sdk:3.1-buster
