@@ -18,7 +18,7 @@ mcr ---> 阿里云容器镜像服务 ---> 你的电脑
 对于不熟悉这些镜像的，可以用 Visual Studio 添加docker支持（记得把除了Dockerfile、dockerignore之外的生成的东西给删除）。得到Dockerfile后，你就知道你想要哪些镜像了。
 
 ## 建立github仓库，添加 Dockerfile
-建立github仓库，里面用于存放dockerhub + 作为构建的代码仓库
+建立github仓库，里面用于存放 Dockerfile + 作为构建的代码仓库
 
 Dockerfile参考本仓库的。例如 [aspnet3.1-alpine.Dockerfile](aspnet3.1-alpine.Dockerfile)
 
